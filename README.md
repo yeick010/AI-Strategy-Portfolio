@@ -14,6 +14,7 @@ Questo repository contiene una selezione di progetti e analisi che dimostrano il
 | Progetto | Competenza Dimostrata | Deliverable |
 | :--- | :--- | :--- |
 | **AI Governance Kickstart Kit** | Framework di Governance AI | [Visualizza il PDF](AEVF_one_pager_professional.pdf) |
+| **Analisi Strategica Integrata per Gancia S.p.A.** | **Modellazione Finanziaria del Rischio Reputazionale (VARS-B2B) & Strategia di Brand basata su NLP** | [Visualizza il PDF](Gancia_strategic_analysis_final.pdf) |
 | **Analisi Rischio per Gancia** | Analisi Quantitativa del Rischio Etico | [Visualizza il PDF](PoC_02_Gancia_Risk_Analysis.pdf) |
 | **Content Strategy per Gancia** | Principi di NLP Applicati alla Strategia | [Visualizza il PDF](PoC_03_Gancia_Content_Strategy.pdf) |
 | **Curriculum Vitae** | Profilo Strategico Completo | [Visualizza il PDF](CV_Yeison_RS_AI_Advisor.pdf) |
